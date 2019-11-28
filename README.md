@@ -10,7 +10,7 @@ This paper pushes forward high-resolution saliency detection, and contributes a 
 
 (To be continue .........)
 
-Two HRSOD benchmarks for evaluation. Please check the following link:
+Two HRSOD benchmarks for evaluation. Please check the following links:
 
 DAVIS-SOD Benchmark
 ---------------------------------------------------------------------------------
