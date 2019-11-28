@@ -58,7 +58,7 @@ author = {Zeng, Yi and Zhang, Pingping and Zhang, Jianming and Lin, Zhe and Lu, 
 
 title = {Towards High-Resolution Salient Object Detection},
 
-booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+booktitle = {IEEE International Conference on Computer Vision (ICCV)},
 
 month = {October},
 
