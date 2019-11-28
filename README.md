@@ -3,6 +3,7 @@
 This repo provides the works on High-Resolution Salient Object Detection (HRSOD).
 
 1) Towards High-Resolution Salient Object Detection (ICCV2019)
+
 This paper pushes forward high-resolution saliency detection, and contributes a new dataset, named High-Resolution Salient Object Detection (HRSOD) dataset. To our best knowledge, HRSOD is the first high-resolution saliency detection dataset to date. As another contribution, it also provides a novel approach, which incorporates both global semantic information and local high-resolution details, to address this challenging task. 
 
 2) End-to-end framework for High-Resolution Salient Object Detection (HRSOD).
@@ -52,9 +53,15 @@ Citing
 If you find above benchmarks useful in your work, please cite the following papers:
 
 @InProceedings{Zeng_2019_ICCV,
+
 author = {Zeng, Yi and Zhang, Pingping and Zhang, Jianming and Lin, Zhe and Lu, Huchuan},
+
 title = {Towards High-Resolution Salient Object Detection},
+
 booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+
 month = {October},
+
 year = {2019}
+
 } 
